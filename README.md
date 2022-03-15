@@ -13,7 +13,10 @@
 
 
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swfit&logoColor=white or black"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swfit&logoColor=black"/>
+
+
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
