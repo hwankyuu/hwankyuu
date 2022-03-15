@@ -3,15 +3,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ghksrb1226@gmail.com)
 
 
-<div : main>
+<div
 ### 👋 Hi there! I'm mobile app developer  🚀
 ### I want to be a developer who continues to grow. 💻
 ### I'll study hard to improve my skills. 📚
-  
- font-size: 14px;
-  
-</div>
-
+font-size: 14px;
+/div>
 
 
 
