@@ -26,7 +26,7 @@
 
 ## 🛠 Tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=333333"/> 
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=333333"/> 
 
 
 <!--
