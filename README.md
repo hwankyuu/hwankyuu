@@ -9,12 +9,12 @@
 
 
 
-
-
-
+  
+  
 
 ## ⌨ Skills
-
+  
+  
 
 <div align:left>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/> 
