@@ -1,7 +1,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ghksrb1226@gmail.com)
-<img src="https://img.shields.io/badge/blog-000000?style=flat&logo=appveyor&logo=Bloglovin&logoColor=09B3AF"/>
+<img src="https://img.shields.io/badge/blog-000000?style=flat&logo=&logo=Bloglovin&logoColor=09B3AF"/>
 
 출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀]
   
@@ -17,7 +17,7 @@
 <div align="left">
  
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=black"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
