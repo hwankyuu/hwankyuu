@@ -1,7 +1,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ghksrb1226@gmail.com)
-<a href=https://kyuu.tistory.com target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Storyblok&logoColor=09B3AF"/></a>
+<a href=https://kyuu.tistory.com target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat&logo=Storyblok&logoColor=09B3AF"/></a>
 
 
 ### 👋 Hi there! I'm mobile app developer  🚀
