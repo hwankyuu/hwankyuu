@@ -1,5 +1,5 @@
 
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ghksrb1226@gmail.com)
 
 ### 👋 Hi there! I'm mobile app developer  🚀
 ### I want to be a developer who continues to grow. 💻
