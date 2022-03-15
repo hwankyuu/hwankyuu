@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo-badge&logo=github&logoColor=white">
+
 </div>
 
 
@@ -29,7 +29,8 @@
 <div align:left>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=333333"/> 
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=333333"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo-badge&logo=github&logoColor=white">
 </div>
 
 
