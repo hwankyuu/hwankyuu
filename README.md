@@ -1,7 +1,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ghksrb1226@gmail.com)
-<img src="https://img.shields.io/badge/blog-000000?style=flat&logo=Bloglovin&logoColor=09B3AF"/>
+[![Tistory Badge]<img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Bloglovin&logoColor=09B3AF"
 
 출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀]
   
