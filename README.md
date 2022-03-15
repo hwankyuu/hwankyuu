@@ -1,7 +1,5 @@
 
 
-
-<img src="https://img.shields.io/badge/{blog}-{000000}?style={flat&logo=appveyor}&logo={Blogger}&logoColor={#000000}"/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ghksrb1226@gmail.com)
 
 ### 👋 Hi there! I'm mobile app developer  🚀
