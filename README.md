@@ -1,6 +1,6 @@
-<p align="center">
-### ![Screen Shot](https://user-images.githubusercontent.com/97172637/158420841-154f7784-6006-4ed4-a690-03a21ab1544b.png)
-<img src="image_src"></p>
+
+<p align="center"> ### ![Screen Shot](https://user-images.githubusercontent.com/97172637/158420841-154f7784-6006-4ed4-a690-03a21ab1544b.png) <img src="image_src"></p>
+
 
 
 
