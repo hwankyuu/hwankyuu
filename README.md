@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ghksrb1226@gmail.com)
 
-<h align="center">
+
 ### 👋 Hi there! I'm mobile app developer  🚀
 ### I want to be a developer who continues to grow. 💻
 ### I'll study hard to improve my skills. 📚
@@ -10,10 +10,6 @@
 
 
 
-
-
-
-<div align="left">
  
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
