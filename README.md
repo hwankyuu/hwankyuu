@@ -4,9 +4,9 @@
 <a href=https://kyuu.tistory.com target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat&logo=Storyblok&logoColor=000000"/></a>
 
 
-##### 👋 Hi there! I'm mobile app developer  🚀
-##### I want to be a developer who continues to grow. 💻
-##### I'll study hard to improve my skills. 📚
+#### 👋 Hi there! I'm mobile app developer  🚀
+#### I want to be a developer who continues to grow. 💻
+#### I'll study hard to improve my skills. 📚
 
 
 
