@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo-badge&logo=github&logoColor=white">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwankyuu&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwankyuu&theme=tokyonight&show_icons=true)
 
 
 <!--
