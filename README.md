@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo-badge&logo=github&logoColor=white">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwankyuu&theme=tokyunight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hwankyuu=anuraghazra&theme=tokyonight&show_icons=true)
 
 <!--
 **hwankyuu/hwankyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
