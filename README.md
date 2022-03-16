@@ -15,7 +15,7 @@
   
   
 
-## ⌨ Skillsss
+## ⌨ Skill
   
   
 
