@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=white"/>
 
 </div>
 
